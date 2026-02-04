@@ -21,22 +21,22 @@ layout: default
 <!-- HEADER -->
 <div style="display:flex; gap:30px; align-items:center; margin-bottom:40px; flex-wrap:wrap;">
 
-  <img src="profile.jpg" alt="Profile Photo"
+  <!-- <img src="profile.jpg" alt="Profile Photo"
        style="width:160px;height:160px;border-radius:50%;
               object-fit:cover;border:4px solid #e1e4e8;
-              box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+              box-shadow:0 4px 10px rgba(0,0,0,0.1);"> -->
 
   <div>
-    <h1 style="margin:0;">Your Name</h1>
+    <h1 style="margin:0;">Simran Amesar</h1>
     <p style="font-size:1.1em; line-height:1.5;">
       <strong>Applied Data Science & Artificial Intelligence</strong><br>
       MSc Student, SRH University
     </p>
 
     <p style="font-size:0.95em;">
-      <a href="mailto:your.email@example.com">Email</a> &bull;
-      <a href="https://linkedin.com">LinkedIn</a> &bull;
-      <a href="https://github.com/yourusername">GitHub</a>
+      <a href="mailto:amesarsimran@gmail.com">Email</a> &bull;
+     <!-- <a href="https://linkedin.com">LinkedIn</a> &bull; -->
+      <a href="https://github.com/simranamesar">GitHub</a>
     </p>
   </div>
 </div>
@@ -121,5 +121,5 @@ layout: default
 </ul>
 
 <footer style="text-align:center; font-size:0.8em; color:#666; margin-top:40px;">
-  © 2025 Your Name · GitHub Pages
+  © 2026 Simran Amesar
 </footer>
