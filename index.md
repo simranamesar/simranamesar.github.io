@@ -19,7 +19,7 @@ layout: default
 </style>
 
 <!-- HEADER -->
-<div style="display:flex; gap:30px; align-items:center; margin-bottom:40px; flex-wrap:wrap;">
+<div style="display:flex; gap:30px; align-items:center; margin-bottom:35px; flex-wrap:wrap;">
 
   <!-- <img src="profile.jpg" alt="Profile Photo"
        style="width:160px;height:160px;border-radius:50%;
@@ -35,7 +35,6 @@ layout: default
 
     <p style="font-size:0.95em;">
       <a href="mailto:amesarsimran@gmail.com">Email</a> &bull;
-     <!-- <a href="https://linkedin.com">LinkedIn</a> &bull; -->
       <a href="https://github.com/simranamesar">GitHub</a>
     </p>
   </div>
